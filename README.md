@@ -140,7 +140,7 @@ This work is licensed under **CC0 1.0 Universal** (Public Domain).
 While not required by the CC0 license, attribution is always appreciated:
 
 ```markdown
-Icons by [M-Umar-2017](https://github.com/M-Umar-2017) from [BLueSKy](https://github.com/M-Umar-2017/BLueSKy) collection
+Icons by [𝐌𝐀𝐃𝐄𝐂][M-Umar-2017](https://github.com/M-Umar-2017) from [BLueSKy](https://github.com/M-Umar-2017/BLueSKy) collection
 ```
 
 ---
@@ -176,7 +176,7 @@ Found a bug or have a suggestion? Feel free to:
 ---
 
 <p align="center">
-  Made with love by <a href="https://github.com/M-Umar-2017">M-Umar-2017</a> | 
+  Made with love by <a href="https://github.com/M-Umar-2017">𝐌𝐀𝐃𝐄𝐂</a> | 
   <a href="https://github.com/M-Umar-2017/BLueSKy">View Repository</a>
 </p>
 
