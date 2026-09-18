@@ -4,6 +4,9 @@
 
 A **minimal, elegant collection of blue-themed icons** for your favorite development and creative applications: **Affinity, Blender, Chrome, Git, LibreSprite, PowerToys, VSCode, and Zed**. Each icon is meticulously designed with a cohesive sky-blue aesthetic, perfect for customizing your desktop, dock, or application launcher.
 
+> [!WARNING]
+> **Notice:** The current icons are smaller than intended. I am working on an update to fix the sizing soon!
+
 ---
 
 ## Icon Gallery
