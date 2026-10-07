@@ -1,11 +1,8 @@
 # BlueSKy Icons
 
-[![License: CC0 1.0 Universal](https://img.shields.io/badge/License-CC0_1.0_Universal-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/) [![Icons](https://img.shields.io/badge/Icons-8-0078d4.svg)](https://github.com/M-Umar-2017/BLueSKy) [![Formats](https://img.shields.io/badge/Formats-PNG%20%7C%20ICNS%20%7C%20ICO-0078d4.svg)](https://github.com/M-Umar-2017/BLueSKy) [![Resolution](https://img.shields.io/badge/Resolution-1024x1024-0078d4.svg)](https://github.com/M-Umar-2017/BLueSKy)
+[![License: CC0 1.0 Universal](https://img.shields.io/badge/License-CC0_1.0_Universal-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/) [![Icons](https://img.shields.io/badge/Icons-8-0078d4.svg)](https://github.com/M-Umar-2017/BLueSKy) [![Formats](https://img.shields.io/badge/Formats-PNG%20%7C%20ICNS%20%7C%20ICO-0078d4.svg)](https://github.com/M-Umar-2017/BLueSKy) [![Resolution](https://img.shields.io/badge/Resolution-2048x2048-0078d4.svg)](https://github.com/M-Umar-2017/BLueSKy)
 
 A **minimal, elegant collection of blue-themed icons** for your favorite development and creative applications: **Affinity, Blender, Chrome, Git, LibreSprite, PowerToys, VSCode, and Zed**. Each icon is meticulously designed with a cohesive sky-blue aesthetic, perfect for customizing your desktop, dock, or application launcher.
-
-> [!WARNING]
-> **Notice:** The current icons are smaller than intended. I am working on an update to fix the sizing soon!
 
 ---
 
@@ -27,7 +24,7 @@ A **minimal, elegant collection of blue-themed icons** for your favorite develop
 ## Features
 
 - **Multiple Formats**: Available in PNG, ICNS (macOS), and ICO (Windows) formats
-- **High Resolution**: 1024x1024 pixels (RGBA PNG format)
+- **High Resolution**: 2048x2048 pixels (RGBA PNG format)
 - **Consistent Style**: Unified blue-themed design language
 - **Transparent Background**: Perfect for any theme or wallpaper
 - **Lightweight**: Optimized file sizes without losing quality
@@ -101,7 +98,7 @@ BLueSKy/
 │   ├── vscode-sky.ico
 │   └── zed-sky.ico
 │
-├── .png Files/           # Original PNG format icons
+├── .png Files/           # 2048x2048 PNG format icons
 │   ├── affinity-sky.png
 │   ├── blender-sky.png
 │   ├── chrome-sky.png
